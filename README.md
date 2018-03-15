@@ -16,7 +16,9 @@
 
 
 ### Computational resources <a name="Computational-resources"><a>
-
+- *Data Storage*:
+  Access Research Storage: https://www.sheffield.ac.uk/cics/research-storage/using-research-storage
+  
 - *Sheffield HPC*:
 
   - [Iceberg](http://docs.hpc.shef.ac.uk/en/latest/iceberg/index.html)
