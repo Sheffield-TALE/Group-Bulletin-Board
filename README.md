@@ -7,11 +7,18 @@
 
 ### Good paper for sharing <a name="Good-paper-for-sharing"><a>
 
+Please inform the onwers/research group members if the provided link is invalid.
+
 #### Transfer learning <a name="Transfer-learning"><a>
 - [Learning transferable features with deep adaptation networks (DAN)](http://proceedings.mlr.press/v37/long15.pdf) [Long et al.,](http://ise.thss.tsinghua.edu.cn/~mlong/) in ICML, 2015.
 - [Transfer Feature Learning with Joint Distribution Adaptation (JDA)](http://openaccess.thecvf.com/content_iccv_2013/papers/Long_Transfer_Feature_Learning_2013_ICCV_paper.pdf) [Long et al.,](http://ise.thss.tsinghua.edu.cn/~mlong/) in ICCV, 2013.
 - [Domain adaptation via transfer component analysis (TCA)](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI-09/paper/download/294/962) [Pan et al..,](http://www.ntu.edu.sg/home/sinnopan/index.html) in IJCA, 2009
 - [Boosting for transfer learning (TrAdaBoost)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.8484&rep=rep1&type=pdf) [Dai et al.,](https://scholar.google.co.uk/citations?user=AGR9pP0AAAAJ&hl=en) in ICML, 2007
+
+#### Network Embedding 
+
+
+#### High-order Structure Spectral Clustering
 
 
 
