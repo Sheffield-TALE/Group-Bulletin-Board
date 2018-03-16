@@ -20,7 +20,7 @@ Please inform the onwers/research group members if the provided links are invali
 #### Network Embedding 
 
 
-#### High-order Structure Spectral Clustering
+#### Spectral Clustering for Higher-order Network Structures 
 
 
 
