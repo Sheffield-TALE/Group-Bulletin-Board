@@ -2,14 +2,14 @@
 
 [Get your Github student pack for unlimited private repositories](https://education.github.com/pack)
 
+Please inform the onwers/research group members if the provided links are invalid.
+
 ### Table of contents:
 - [Good paper for sharing](#Good-paper-for-sharing)
   - [Transfer learning](#Transfer-learning)
 - [Computational resources](#Computational-resources)
 
 ### Good paper for sharing <a name="Good-paper-for-sharing"><a>
-
-Please inform the onwers/research group members if the provided links are invalid.
 
 #### Transfer learning <a name="Transfer-learning"><a>
 - [Learning transferable features with deep adaptation networks (DAN)](http://proceedings.mlr.press/v37/long15.pdf) [Long et al.,](http://ise.thss.tsinghua.edu.cn/~mlong/) in ICML, 2015. [[Code]](https://github.com/thuml/DAN)
@@ -25,11 +25,9 @@ Please inform the onwers/research group members if the provided links are invali
 
 
 ### Computational resources <a name="Computational-resources"><a>
-- *Data Storage*:
+
   
-  Access Research Storage: https://www.sheffield.ac.uk/cics/research-storage/using-research-storage
-  
-- *Sheffield HPC*:
+- **_Sheffield HPC_**:
 
   - [Iceberg](http://docs.hpc.shef.ac.uk/en/latest/iceberg/index.html)
 
@@ -37,10 +35,19 @@ Please inform the onwers/research group members if the provided links are invali
 
    Please contact Haiping for requesting access.
 
-- *Departmental resources*:
+- **_Departmental resources_**:
 
   - [Big memory nodes](http://docs.hpc.shef.ac.uk/en/latest/sharc/groupnodes/big_mem_nodes.html)
 
   - [Nvidia DGX-1](http://docs.hpc.shef.ac.uk/en/latest/sharc/groupnodes/dgx-1.html)
 
    Please contact Twin Karmakharm (t.karmakharm@sheffield.ac.uk) or RSE group (rse@shef.ac.uk) for requesting access.
+   
+   
+- **_Data Storage_**:
+  
+  Research group storage folder: "tale2". Only TALE group members have the access.
+  
+  Access research storage: https://www.sheffield.ac.uk/cics/research-storage/using-research-storage
+  
+  Access "tale2" from Sheffield HPC: Shared folders are not visible but accessible from Sheffield HPC (ShARC or iceberg) by using this command: `cd /shared/tale2/Shared`
