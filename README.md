@@ -35,7 +35,7 @@ Please inform the onwers/research group members if the provided links are invali
 
    Please contact Haiping for requesting access.
 
-- **_Departmental resources_**:
+- **_Departmental Resources_**:
 
   - [Big memory nodes](http://docs.hpc.shef.ac.uk/en/latest/sharc/groupnodes/big_mem_nodes.html)
 
@@ -43,10 +43,27 @@ Please inform the onwers/research group members if the provided links are invali
 
    Please contact Twin Karmakharm (t.karmakharm@sheffield.ac.uk) or RSE group (rse@shef.ac.uk) for requesting access.
    
+- **_TALE Private Node on ShARC_**:  
+
+  - Starting an interactive session
+
+    Type `qrshx -P tale` to get access to the node (node156). Use `top` to check how busy it is (currently idle, so please use it).
+
+  - Submitting batch jobs
+
+    Batch Jobs can be submitted to the TALE private node by adding the `-P tale -q tale.q` parameters, for example:
+
+    ```
+    #!/bin/bash
+    #$ -P tale
+    #$ -q tale.q
+
+    echo "Hello world"
+    ```
    
 - **_Data Storage_**:
   
-  Research group storage folder: "tale2". Only TALE group members have the access.
+  TALE group shared storage folder: "tale2". Only TALE group members have the access.
   
   Access research storage: https://www.sheffield.ac.uk/cics/research-storage/using-research-storage
   
