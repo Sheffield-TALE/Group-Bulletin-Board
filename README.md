@@ -61,7 +61,7 @@ Please inform the onwers/research group members if the provided links are invali
 
     echo "Hello world"
     ```
-   More about the command for configuring batch jobs can be found on https://www.sheffield.ac.uk/cics/research/hpc/sharc/batch
+    More about the command for configuring batch jobs can be found on https://www.sheffield.ac.uk/cics/research/hpc/sharc/batch
    
 - **_Data Storage_**:
   
