@@ -47,7 +47,8 @@ Please inform the onwers/research group members if the provided links are invali
 
   - Starting an interactive session
 
-    Type `qrshx -P tale` to get access to the node (node156). Use `top` to check how busy it is (currently idle, so please use it).
+    Type `qrshx -P tale` to get access to the node (node156) with default 2GB real memory allocation. Use `top` to check how busy it is (currently idle, so please use it).
+    If more memory e.g., 16GB is needed for your job, type `qrshx -P tale -q tale.q -l rmem=16G`. Be sure to request enough resource for your job in the interactive session, otherwise, the job will be killed without any warning or error message and you will be dropped out of the TALE node.
 
   - Submitting batch jobs
 
